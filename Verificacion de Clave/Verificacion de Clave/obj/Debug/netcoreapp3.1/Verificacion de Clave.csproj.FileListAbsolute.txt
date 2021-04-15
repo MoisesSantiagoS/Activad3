@@ -1,0 +1,13 @@
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\bin\Debug\netcoreapp3.1\Verificacion de Clave.exe
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\bin\Debug\netcoreapp3.1\Verificacion de Clave.deps.json
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\bin\Debug\netcoreapp3.1\Verificacion de Clave.runtimeconfig.json
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\bin\Debug\netcoreapp3.1\Verificacion de Clave.runtimeconfig.dev.json
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\bin\Debug\netcoreapp3.1\Verificacion de Clave.dll
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\bin\Debug\netcoreapp3.1\Verificacion de Clave.pdb
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\obj\Debug\netcoreapp3.1\Verificacion de Clave.csprojAssemblyReference.cache
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\obj\Debug\netcoreapp3.1\Verificacion de Clave.AssemblyInfoInputs.cache
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\obj\Debug\netcoreapp3.1\Verificacion de Clave.AssemblyInfo.cs
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\obj\Debug\netcoreapp3.1\Verificacion de Clave.csproj.CoreCompileInputs.cache
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\obj\Debug\netcoreapp3.1\Verificacion de Clave.dll
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\obj\Debug\netcoreapp3.1\Verificacion de Clave.pdb
+C:\Users\green\source\repos\Verificacion de Clave\Verificacion de Clave\obj\Debug\netcoreapp3.1\Verificacion de Clave.genruntimeconfig.cache
